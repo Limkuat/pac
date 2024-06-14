@@ -1,0 +1,46 @@
+[podcast]
+ID = "p_QjTpt9Q6DtJ"
+Title = "My Podcast"
+Subtitle = "The podcast"
+Author = "Jane Doe"
+Description = """
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna
+    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit
+    esse cillum dolore eu fugiat nulla pariatur.
+    """ # Blank spaces will be trimed
+Copyright = "Jane Doe Productions, 1994-2024"
+Language = "en"
+CoverURI = "urn:orchard:media:hash.png"
+
+[[episodes]]
+ID = "e_WTdHrnn6WJ7"
+Title = "Episode 2"
+Subtitle = ""
+Author = "Jane Doe & John Doe"
+PubDate = 2023-06-14T15:00:00  # UTC time if offset is not specified
+Description = """
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna
+    aliqua.
+    """
+MediaURI = "s3://bucket/key/to/media_2.mp3"
+CoverURI = "urn:orchard:media:hash.png"
+Explicit = false
+
+[[episodes]]
+ID = "e_MGrTDkqGpWW"
+Title = "Episode 1"
+Subtitle = ""
+Author = "Jane Doe"
+PubDate = 2023-06-07T13:37:42  # UTC time if offset is not specified
+Description = """
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna
+    aliqua.
+    """
+MediaURI = "s3://bucket/key/to/media_1.mp3"
+CoverURI = "urn:orchard:media:hash.png"
+Explicit = false
