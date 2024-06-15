@@ -1,0 +1,20 @@
+[podcast]
+ID = "p_sine"
+Title = "Sinewaves"
+Subtitle = "Only pure sines"
+Author = "Sine Master"
+Description = "Only pure sine waves here."
+Copyright = "Sine Master, 2008-2024"
+Language = "en"
+CoverURI = "urn:orchard:mid:91815d6580766720d4c6c2fac4b983808eb5e6308860e258b994a6149033b8b2"
+
+[[episodes]]
+ID = "e_TTdHrnn6WJ8"
+Title = "440 Hz"
+Subtitle = "Pure 440 Hz sine wave."
+Author = "Sine Master"
+PubDate = 2023-06-15T08:00:00
+Description = "This is 400 Hz"
+MediaURI = "urn:orchard:mid:f4ef6b0d117fa6ad65f2029d34a0191ecc4bfbd6dfdfa7420202362be011c6d7"
+CoverURI = ""
+Explicit = false
