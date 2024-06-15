@@ -2,9 +2,9 @@ name: check-toml
 
 on:
   push:
-    branches:
-      - 'main'
-      - 'master'
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   run-check:
