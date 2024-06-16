@@ -19,6 +19,7 @@ schema_podcast = {
   "Copyright": lambda s: isinstance(s, str) and len(s) < 100,
   "CoverURI": lambda s: isinstance(s, str),
   "Language": lambda s: isinstance(s, str) and s in ("en", "fr"),
+  "Category": lambda s: s in ("Arts", "Business", "Comedy", "Education", "Fiction", "History", "Leisure", "Technology"),
 }
 schema_episode = {
   "ID": lambda s: isinstance(s, str) and len(s) > 0,

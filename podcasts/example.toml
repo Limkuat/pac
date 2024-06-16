@@ -11,6 +11,7 @@ Description = """
     Duis aute irure dolor in reprehenderit in voluptate velit
     esse cillum dolore eu fugiat nulla pariatur.
     """ # Blank spaces will be trimed
+Category = "Arts"
 Copyright = "Jane Doe Productions, 1994-2024"
 Language = "en"
 CoverURI = "urn:orchard:media:hash.png"
