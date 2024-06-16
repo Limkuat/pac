@@ -28,6 +28,7 @@ Description = """
     aliqua.
     """
 MediaURI = "s3://bucket/key/to/media_2.mp3"
+DurationSecs = 300
 CoverURI = "urn:orchard:media:hash.png"
 Explicit = false
 
@@ -37,6 +38,7 @@ Title = "Episode 1"
 Subtitle = ""
 Author = "Jane Doe"
 PubDate = 2023-06-07T13:37:42  # UTC time if offset is not specified
+DurationSecs = 300
 Description = """
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna

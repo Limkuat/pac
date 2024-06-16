@@ -31,6 +31,7 @@ schema_episode = {
   "MediaURI": lambda s: isinstance(s, str) and len(s) > 0,
   "CoverURI": lambda s: isinstance(s, str),
   "Explicit": lambda s: isinstance(s, bool),
+  "DurationSecs": lambda s: isinstance(s, int) and s > 0,
 }
 
 

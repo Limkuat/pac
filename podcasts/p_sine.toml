@@ -16,6 +16,7 @@ Subtitle = "Pure 440 Hz sine wave."
 Author = "Sine Master"
 PubDate = 2023-06-15T08:00:00
 Description = "This is 400 Hz"
+DurationSecs = 300
 MediaURI = "urn:orchard:mid:f4ef6b0d117fa6ad65f2029d34a0191ecc4bfbd6dfdfa7420202362be011c6d7"
 CoverURI = ""
 Explicit = false
