@@ -10,14 +10,14 @@ Language = "en"
 CoverURI = "urn:orchard:iid:91815d6580766720d4c6c2fac4b983808eb5e6308860e258b994a6149033b8b2"
 
 [[episodes]]
-ID = "e_vxWvbNvj2lg"
-Title = "220 Hz - II"
-Subtitle = "Pure 220 Hz sine wave. Take two."
+ID = "e_vxWvbNvj2lw"
+Title = "Pink Noise - II"
+Subtitle = "Pink. Take two."
 Author = "Sine Master"
-PubDate = 2024-06-17T15:11:04
+PubDate = 2024-06-17T18:11:04
 Description = "This is 220 Hz. Again."
-DurationSecs = 300
-MediaURI = "urn:orchard:mid:552a40ff43a539119df32f8aab534ec81d8b5ebf2cce2fe73c8d8ba6d4f7b781"
+DurationSecs = 60
+MediaURI = "urn:orchard:mid:c33bcc84-59d4-4a48-a24e-6c940350ed37"
 CoverURI = ""
 Explicit = false
 
