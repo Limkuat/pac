@@ -10,6 +10,18 @@ Language = "en"
 CoverURI = "urn:orchard:iid:91815d6580766720d4c6c2fac4b983808eb5e6308860e258b994a6149033b8b2"
 
 [[episodes]]
+ID = "e_Q7Bn9JHmgcm"
+Title = "471 Hz"
+Subtitle = "Pure 471 Hz sine"
+Author = "Sine Master"
+PubDate = 2024-06-19T15:11:04
+Description = "This is 471 Hz"
+DurationSecs = 90
+MediaURI = "urn:orchard:mid:0cd973345e6325e57ea93878596535a4c75865d759f249df3457a19f8e90b6fc"
+CoverURI = ""
+Explicit = false
+
+[[episodes]]
 ID = "e_vxWvbNvj2lw"
 Title = "Pink Noise - II"
 Subtitle = "Pink. Take two."
