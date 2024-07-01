@@ -9,6 +9,18 @@ Category = "Arts"
 Language = "en"
 CoverURI = "urn:orchard:iid:91815d6580766720d4c6c2fac4b983808eb5e6308860e258b994a6149033b8b2"
 
+[[episodes]]
+ID = "e_J9dQWcm9rDd"
+Title = "328 Hz"
+Subtitle = "Pure 328 Hz sine"
+Author = "Sine Master"
+PubDate = 2024-07-01T14:00:00
+Description = "This is 328 Hz"
+DurationSecs = 90
+MediaURI = "urn:orchard:mid:605f43ee49367cd640ca87919ce5896866deb1bd5897a782963244f5cd388f81"
+CoverURI = ""
+Explicit = false
+
 
 [[episodes]]
 ID = "e_hDkJL7jtGp8"
