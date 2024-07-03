@@ -10,6 +10,19 @@ Language = "en"
 CoverURI = "urn:orchard:iid:91815d6580766720d4c6c2fac4b983808eb5e6308860e258b994a6149033b8b2"
 
 [[episodes]]
+ID = "e_cKpmbtDGbLB"
+Title = "187 Hz"
+Subtitle = "Pure 187 Hz sine"
+Author = "Sine Master"
+PubDate = 2024-07-03T13:37:08
+Description = "This is 187 Hz :)"
+DurationSecs = 90
+MediaURI = "urn:orchard:mid:e05118cd56153e85a9e62c1596a63422c058fee2116f5ef0cc63878d1198b887"
+CoverURI = ""
+Explicit = false
+
+
+[[episodes]]
 ID = "e_rDkLWkJDFcf"
 Title = "631 Hz"
 Subtitle = "Pure 631 Hz sine"
